@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Georgios Aygeridis 👋
 
-<!--
-**giorgosaygeridis/giorgosaygeridis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics Graduate with a strong interest in Data Science, Machine Learning, Big Data, and Analytics.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Mathematics Graduate
+- 📊 Data Science & Machine Learning Enthusiast
+- 🐍 Python Developer
+- 🗄️ SQL & Data Analytics
+- ☁️ Azure Machine Learning
+- ⚡ PySpark & Spark SQL
+- 📈 Power BI & Data Visualization
+
+## Currently Building
+
+I am developing a portfolio of Data Science and Machine Learning projects, focusing on:
+
+- Predictive Modeling
+- Recommendation Systems
+- Big Data Analytics
+- Cloud-Based Machine Learning
+- Business Intelligence
+
+## Technologies
+
+Python • SQL • Machine Learning • Scikit-Learn • PySpark • Spark SQL • Azure ML • Power BI • Pandas • NumPy
+
+## Connect With Me
+
+- LinkedIn: www.linkedin.com/in/avgeridisgeorgios
