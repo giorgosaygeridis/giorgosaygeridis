@@ -1,6 +1,6 @@
 # Hi, I'm Georgios Aygeridis 👋
 
-Mathematics Graduate with a strong interest in Data Science, Machine Learning, Big Data, and Analytics.
+Mathematics Graduate with hands-on experience in Machine Learning , Data Analytics and Business Intelligence.
 
 ## About Me
 
